@@ -1,0 +1,23 @@
+
+
+div{
+  width:100%;
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+
+}
+
+
+button{
+  padding:12px 20px;
+  color:blueviolet;
+  border:2px solid #14b7df;
+  outline:none;
+  border-radius:5px;
+  text-transform: 5px;
+  cursor:pointer;
+  
+}
